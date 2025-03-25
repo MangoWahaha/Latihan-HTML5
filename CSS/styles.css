@@ -1,20 +1,23 @@
-.favorite .musik {
-    border: 1px solid black;
+body {
+    background-color: #FDF6E3;
 }
 
-.favorite li {
-    font-size: 1.5rem;  
+.favorite-list li {
+  font-size: 1.5rem;
 }
 
-.favorite p {
-    font-size: medium;
-    width: 600px;
-    text-align: justify;
+.favorite-list img {
+  height: 200px;
 }
 
-.favorite img {
-    height: 200px;
+.favorite-list p {
+  font-size: medium;
+  width: 550px;
+  text-align: justify;
 }
 
-
-
+.favorite-list ul li {
+  font-size: medium;
+  width: 510px;
+  text-align: justify;
+}
